@@ -79,9 +79,8 @@
           <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
           {% for award in education.awards %}          
             <h5 class="resume-item-details award-title" itemprop="description">{{ award }}</h5>
-          {% for award in education.awards %}                    
-          <p class="resume-item-copy">{{ education.summary }}</p>
           {% endfor %}
+          <p class="resume-item-copy">{{ education.summary }}</p>
         </div>
         {% endfor %}
       </section>
