@@ -9,5 +9,6 @@
 - degree: BS, Applied Chemistry
   uni: Yuncheng College
   year: Sept. 2010 &mdash; Jul. 2104
-  awards: National First Class Scholarship
-          Scholarship for Outstanding Students
+  awards: 
+    - National First Class Scholarship,
+    - Scholarship for Outstanding Students

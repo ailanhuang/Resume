@@ -1,16 +1,27 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: An Integrated Approach for Predicting β2AR Agonist via computational simulation
+  role: Major Participant
+  duration: Oct. 2015 &mdash; Dec. 2016
   # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+  description: 
+    - Combined molecular docking, pharmacophore model and machine learning methods
+    - Developed a computational model for predicting potential β2 adrenergic receptor agonists
+    - Cooperated with a team member to build a free web server (http://202.127.19.98:8049/)
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Molecular docking study of chlorpyrifos with acetyl-cholinesterase
+  role: Major Participant
+  duration: Oct. 2014 &mdash; Jun. 2015
   # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+  description: 
+    - Molecular docking methods were performed to predict the interaction of chlorpyrifos with different species AChE
+    - Showed that amino acid residues of peripheral anionic sites plays an important role in the formation of hydrogen binding
+
+- project: The application of immuno-electrochemistry sensor in food safety detection
+  role: Participant
+  duration: Sept. 2014 &mdash; May 2015
+  # url: "#"
+  description: 
+    - Developed a sensor that can simultaneously detect several β2 agonists
+    - The patent application number CN106645699A
