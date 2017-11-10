@@ -11,12 +11,12 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Ailan Huang"
-resume_title:                   "Drug Discovery and Design Technician"
+resume_title:                   "Cheminformatics and Drug Design Technician"
 resume_contact_email:           "loveailan456@163.com"
 resume_contact_telephone:       "+86-15996269975"
 resume_contact_address:         "No.1 Wenyuan Road, Xixia District, Nanjing, China"
 resume_header_contact_info: "No.1 Wenyuan Road, Xixia District, Nanjing, China | +86-15996269975 | loveailan456@163.com"
-resume_header_intro: "<p>I am a graduate from Nanjing Normal University, joint supervised in Shanghai Institute of Materia Medica, Chinese Academy of Sciences. My work focuses on cheminformatics and drug design</p>"
+resume_header_intro: "<p>I am a graduate from Nanjing Normal University, joint supervised in Shanghai Institute of Materia Medica, Chinese Academy of Sciences. My work focuses on cheminformatics and drug design.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

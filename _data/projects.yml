@@ -4,16 +4,16 @@
 - project: An Integrated Approach for Predicting β2AR Agonist via computational simulation
   role: Major Participant
   duration: Oct. 2015 &mdash; Dec. 2016
-  # url: "#"
+  url: "http://202.127.19.98:8049/"
   description: 
     - Combined molecular docking, pharmacophore model and machine learning methods
     - Developed a computational model for predicting potential β2 adrenergic receptor agonists
-    - Cooperated with a team member to build a free web server (http://202.127.19.98:8049/)
+    - Cooperated with a team member to build <a herf= "http://202.127.19.98:8049/"> a free web server</a>.
 
 - project: Molecular docking study of chlorpyrifos with acetyl-cholinesterase
   role: Major Participant
   duration: Oct. 2014 &mdash; Jun. 2015
-  # url: "#"
+  url: "doi:10.3969/j.issn.1009-7902.2016.06.014"
   description: 
     - Molecular docking methods were performed to predict the interaction of chlorpyrifos with different species AChE
     - Showed that amino acid residues of peripheral anionic sites plays an important role in the formation of hydrogen binding

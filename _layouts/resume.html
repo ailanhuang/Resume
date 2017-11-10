@@ -5,7 +5,7 @@
 
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
 
-    <div class="wrapper" itemscope itemtype="http://schema.org/Person">
+    <div class="wrapper" itemscope itemtype="">
       <meta itemprop="telephone" content="{{ site.resume_contact_telephone }}"/>
       <meta itemprop="address" content="{{ site.resume_contact_address }}"/>
 
@@ -74,7 +74,7 @@
         </header>
 
         {% for education in site.data.education %}
-        <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+        <div class="resume-item" itemscope itemprop="alumniOf" itemtype="CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
           <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
           {% for award in education.awards %}          
@@ -133,7 +133,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Honor</h2>
+          <h2>Honors</h2>
         </header>
 
         {% for recognition in site.data.recognitions %}
@@ -157,7 +157,7 @@
         </header>
 
         {% for association in site.data.associations %}
-        <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
+        <div class="resume-item" itemscope itemprop="memberOf" itemtype="Organization">
           <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ association.role }} &bull; {{ association.year }}</h4>
           <p class="resume-item-copy">{{ association.summary }}</p>
