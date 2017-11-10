@@ -8,7 +8,7 @@
   description: 
     - Combined molecular docking, pharmacophore model and machine learning methods
     - Developed a computational model for predicting potential β2 adrenergic receptor agonists
-    - Cooperated with a team member to build <a herf= "http://202.127.19.98:8049/"> a free web server</a>.
+    - Cooperated with a team member to build <link herf= "http://202.127.19.98:8049/"> a free web server</link>.
 
 - project: Molecular docking study of chlorpyrifos with acetyl-cholinesterase
   role: Major Participant
